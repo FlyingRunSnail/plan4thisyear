@@ -25,3 +25,12 @@
 |----automotive related----
 |                      |-- AutoSAR
 |
+|----communication related----
+|
+|
+|----signals & systems
+|
+|
+|----digital signal process
+|
+|
