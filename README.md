@@ -2,7 +2,9 @@
 ## technical study
 |----kernel related-----
 |                  |-- Android
-|                  |-- 
+|                  |-- schedule
+|                  |-- memory management
+|                  |-- fs
 |----driver related----- PCIe 
 |                  |-- USB
 |                  |-- NVMe
